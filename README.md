@@ -147,6 +147,13 @@ You can use the following resources to to get acquainted with some feature selec
 
 
 
-
+##### A brief explanation about the solution outlining the algorithm chosen, why it was chosen and how the algorithm compared to others tried
+* Imported Dataset
+* Carried EDA
+* Dealt with scalling, the imbalanced classes and generation of validation set
+* Tried out the different classification algorithms e.g SVC and KNN
+* Conducted Feature Selection
+* Random Forest gave a higher validation score thus chosen to fit and make predictions
+* Generated predictions file
 
 
